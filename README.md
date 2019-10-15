@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis
+This is a simple implementation in python using tweepy and TextBlob. I created an app using my personal twitter account and linked the API to my code. You will be required to enter a particular word or hashtag whose sentiment you want to analyse and also the number of tweets you want to analyse. It will the output the result telling how people are reacting about the word/hashtag. The result is represented using a piechart.
